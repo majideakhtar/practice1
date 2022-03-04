@@ -3,5 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello World!")
+	var greeting string
+	greeting = "Hello Majid"
+	fmt.Println(greeting)
 }
